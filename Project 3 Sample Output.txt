@@ -1,0 +1,6 @@
+Total Number Of Units: 50
+Rent While All Units Are Occupied: 600.0
+Increase In Rent For Every Vacancy: 40.0
+Amount Required To Maintain A Unit: 27.0
+Number Of Units To Be Rented To Maximize Profit: 32
+The Maximum Profit Is: 41376
